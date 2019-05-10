@@ -1,0 +1,64 @@
+[{
+    "id": 0,
+    "collection": [{
+        "id": 1,
+        "name": "绿茶葱香烤鸡",
+        "price": 36,
+        "tit": "微辣 | 三黄鸡：450克肉质细嫩，茶香浓郁(辣不可免)",
+        "img": "https://p1.meituan.net/wmproduct/7b8b42dff4fef46d74c7f92f1df7a85a255200.jpg"
+    }, {
+        "id": 2,
+        "name": "绿茶葱香烤肉",
+        "price": 42,
+        "tit": "微辣 | 猪五花：400克",
+        "img": "https://p0.meituan.net/wmproduct/001e8ad9732eb3078219fba800a29e54251260.jpg"
+    }, {
+        "id": 3,
+        "name": "绿茶葱香烤鸡烤肉合拼",
+        "price": 35,
+        "tit": "微辣 | 三黄鸡：450克，猪五花：200克",
+        "img": "https://p1.meituan.net/wmproduct/33582290b33ddf43da5257472290f2cb266674.jpg"
+    }, {
+        "id": 4,
+        "name": "鱼头诱惑(半只)",
+        "price": 38,
+        "tit": "重辣",
+        "img": "https://p1.meituan.net/wmproduct/8a981264c28f8618638acc40cc9ded03186448.jpg"
+    }]
+}, {
+    "id": 1,
+    "collection": [{
+        "id": 1,
+        "name": "轻薄本",
+        "price": 8000,
+        "tit": "电脑3ACD@i5-8250u",
+        "img": "//img13.360buyimg.com/focus/s140x140_jfs/t11071/195/2462134264/9117/cd0688bf/5a17ba79N18b9f3d4.png"
+    }, {
+        "id": 2,
+        "name": "游戏本",
+        "price": 3000,
+        "img": "//img30.360buyimg.com/focus/s140x140_jfs/t11155/36/2330310765/10690/eb6754c3/5a17ba96N49561fea.png",
+        "tit": "荣耀MagicBook14英寸轻薄窄边框笔记本电脑"
+    }, {
+        "id": 3,
+        "name": "游戏台式机",
+        "price": 200,
+        "img": "//img10.360buyimg.com/focus/s140x140_jfs/t12865/295/960489437/5723/4f38f11/5a17ba8bN911b7264.jpg",
+        "tit": "联想ThinkPad翼480"
+    }]
+}, {
+    "id": 2,
+    "collection": [{
+        "id":1,
+        "name": "雅诗兰黛",
+        "price": 200,
+        "tit": "玉兰油OLAY面霜多效修护50g",
+        "img": "//img30.360buyimg.com/focus/s140x140_jfs/t19531/110/2538137867/14848/c3ec84ac/5afd3cc5N8aa4b7c8.jpg"
+    }, {
+        "id":2,
+        "name": "欧莱雅",
+        "price": 139,
+        "tit": "欧莱雅复颜玻尿酸7日安瓶精华",
+        "img": "//img10.360buyimg.com/focus/s140x140_jfs/t19759/351/2599036909/13944/24601ad4/5afd3d66Nbb817b81.jpg"
+    }]
+}]
